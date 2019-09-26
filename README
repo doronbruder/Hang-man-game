@@ -1,0 +1,38 @@
+doronbruder
+
+204917629
+
+Doron Bruder
+
+ Websites:"stackoverflow
+"
+No special comments
+
+Section C-q1:
+Why did I choose these inputs :
+First input-case that pattern  should updated in multiple indexes
+Second input-make sure pattern doesnt changed
+ when the letter isnt in the word
+Third input:make sure pattern doesnt
+ changed when the chosen letter already uncovered
+Forth input:make sure still works when the pattern consist of single letter
+
+Section C-q2:
+‪1.The valid test of the letter input
+-since I checked if its a lower case and In Hebrew
+ there is no such a thing instead,
+  I would need  to create  a function‬
+that will check if the char is part of the Hebrew alphabet
+
+2.Ending-letters-in update_word_pattern 
+in Hebrew compare to English 
+there are ending letters which means 
+That every time in the code the user
+ choose a letter we need to  to check  
+if its in the end of the pattern  the 
+pattern will uncover the ending version of the letter 
+
+3.My "choose_letter function" based particularly 
+on the abc- so I would need to replace the 
+List to the Hebrew  alphabet
+
